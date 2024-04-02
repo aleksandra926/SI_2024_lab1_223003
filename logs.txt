@@ -1,0 +1,35 @@
+$ git log
+commit 914336d133841da4b5ddfff14affd95139b94bf7 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Aleksandra Krstevska <aleksandrakrstevska346@gmail.com>
+Date:   Tue Apr 2 17:18:57 2024 +0200
+
+    Call method makeBigStringFrom in main class
+    Conflict is solved!!!
+
+commit 20d5e0b1237b32514ee1f2e4aba0ef1b71ea0095
+Author: Aleksandra Krstevska <aleksandrakrstevska346@gmail.com>
+Date:   Tue Apr 2 17:05:19 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 138f964c9585d21012aba9bee654901ce164914a (origin/bug1, bug1)
+Author: Aleksandra Krstevska <aleksandrakrstevska346@gmail.com>
+Date:   Tue Apr 2 17:12:17 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit a38187856e7945cc08f597cb8fb07fd5c158a0a0
+Author: Aleksandra Krstevska <aleksandrakrstevska346@gmail.com>
+Date:   Tue Apr 2 17:01:19 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 3be788d423ec128eedbe8f2775653064b1fc578c
+Author: Aleksandra Krstevska <aleksandrakrstevska346@gmail.com>
+Date:   Tue Apr 2 16:41:23 2024 +0200
+
+    Add starter code
+
+commit 33ca9dbce03b06f5b4f0e6efea923b7d4c886ca4
+Author: Aleksandra Krstevska <aleksandrakrstevska346@gmail.com>
+Date:   Tue Apr 2 15:49:17 2024 +0200
